@@ -9,12 +9,12 @@ import posixpath
 import pandas as pd
 from numpy.random import randn
 import re
-#import seaborn as sns
+import seaborn as sns
 from datetime import datetime
 from io import StringIO
-#import scipy
-#from sklearn.utils import resample
-#from scipy import scipy.signal
+import scipy
+from sklearn.utils import resample
+from scipy import scipy.signal
 import pickle
 import datetime
 
