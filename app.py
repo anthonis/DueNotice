@@ -14,7 +14,7 @@ from datetime import datetime
 from io import StringIO
 import scipy
 from sklearn.utils import resample
-from scipy import scipy
+#from scipy import scipy
 import pickle
 import datetime
 
