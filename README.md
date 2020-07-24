@@ -1,7 +1,7 @@
 # DueNotice
-A web app that transforms the smallest twitch of a muscle into a life-saving prediction
+### A web app that transforms the smallest twitch of a muscle into a life-saving prediction
 
-This project uses voltage-time data from https://physionet.org/content/tpehgdb/1.0.1/#files-panel to train an XGBoost classifier. This classifier predicts preterm births with an accuracy of 83%.
+This project is an app to predict preterm births from surface electromyograms. These are voltage-time data from sensors acquired from [Physionet](https://physionet.org/content/tpehgdb/1.0.1/#files-panel).
 
 See the app itself at https://due-notice.herokuapp.com
 
